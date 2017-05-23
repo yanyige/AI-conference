@@ -1,6 +1,6 @@
 <template>
 	<div class="place">
-	 	<p>我也在憋ing~~~</p>
+	 	<p>暂定吉林长春</p>
 	</div>
 </template>
 
