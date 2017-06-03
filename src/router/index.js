@@ -13,11 +13,11 @@ import Foods from '@/components/Foods'
 Vue.use(Router)
 
 export default new Router({
+  base: 'hcp2017',
   routes: [
     {
       path: '/',
-      name: 'Home',
-      component: Home
+      redirect: '/home'
     },
     {
       path: '/home',

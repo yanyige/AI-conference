@@ -1,6 +1,6 @@
 <template>
 	<div class="header">
-		<img src="../assets/25title.jpg">
+		<img src="../assets/27title.png">
 	</div>
 </template>
 
@@ -8,6 +8,6 @@
 	.header
 		font-size 0
 	.header img
-		height 359px
+		height 290px
 		width: 100%
 </style>
