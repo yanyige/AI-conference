@@ -151,6 +151,12 @@
 			<div class="titles">教授</div>
 			<div class="units">暨南大学</div>
 		</div>
+		<div class="school">中科院信息工程研究所</div>
+		<div class="content">
+			<div class="profile">孙思维</div>
+			<div class="titles">副研究员</div>
+			<div class="units">中科院信息工程研究所</div>
+		</div>
 		<div class="school">江苏师范大学</div>
 		<div class="content">
 			<div class="profile">王改革</div>
