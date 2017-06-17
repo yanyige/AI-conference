@@ -27,6 +27,11 @@
 		</div>
 		<div class="school">大连海事大学</div>
 		<div class="content">
+			<div class="profile">陈荣</div>
+			<div class="titles">教授</div>
+			<div class="units">大连海事大学</div>
+		</div>
+		<div class="content">
 			<div class="profile">高健</div>
 			<div class="titles">副教授</div>
 			<div class="units">大连海事大学</div>
@@ -72,9 +77,24 @@
 			<div class="units">东北师范大学</div>
 		</div>
 		<div class="content">
+			<div class="profile">李圣银</div>
+			<div class="titles"></div>
+			<div class="units">菜鸟物流</div>
+		</div>
+		<div class="content">
+			<div class="profile">李燕</div>
+			<div class="titles"></div>
+			<div class="units">菜鸟物流</div>
+		</div>
+		<div class="content">
 			<div class="profile">李占山</div>
 			<div class="titles">教授</div>
 			<div class="units">吉林大学</div>
+		</div>
+		<div class="content">
+			<div class="profile">刘华文</div>
+			<div class="titles">副教授</div>
+			<div class="units">浙江师范大学</div>
 		</div>
 		<div class="school">北京大学</div>
 		<div class="content">

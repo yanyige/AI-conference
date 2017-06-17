@@ -8,7 +8,7 @@
 			</div>
 			<div class="nav-item">
 				<router-link v-bind:to="{ path:'/professor' }">
-					特邀专家
+					邀请专家
 				</router-link>
 			</div>
 			<div class="nav-item">
