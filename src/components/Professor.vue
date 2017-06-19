@@ -183,6 +183,11 @@
 			<div class="titles">副教授</div>
 			<div class="units">江苏师范大学</div>
 		</div>
+		<div class="content">
+			<div class="profile">熊正大</div>
+			<div class="titles">讲师</div>
+			<div class="units">华中科技大学</div>
+		</div>
 		<div class="school">武汉大学</div>
 		<div class="content">
 			<div class="profile">玄跻峰</div>
@@ -194,6 +199,16 @@
 			<div class="profile">许可</div>
 			<div class="titles">教授</div>
 			<div class="units">北京航空航天大学</div>
+		</div>
+		<div class="content">
+			<div class="profile">徐丽萍</div>
+			<div class="titles">副教授</div>
+			<div class="units">华中科技大学</div>
+		</div>
+		<div class="content">
+			<div class="profile">许如初</div>
+			<div class="titles">副教授</div>
+			<div class="units">华中科技大学</div>
 		</div>
 		<div class="school">江西财经大学</div>
 		<div class="content">
