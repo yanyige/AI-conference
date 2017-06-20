@@ -53,6 +53,15 @@
 			<div class="profile">江贺</div>
 			<div class="titles">教授</div>
 			<div class="units">大连理工大学</div>
+		</div><div class="content">
+			<div class="profile"><a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy</a></div>
+			<div class="titles">教授</div>
+			<div class="units">香港中文大学</div>
+		</div>
+		<div class="content">
+			<div class="profile">江贺</div>
+			<div class="titles">教授</div>
+			<div class="units">大连理工大学</div>
 		</div>
 		<div class="school">西安交通大学</div>
 		<div class="content">
@@ -320,6 +329,12 @@
 				margin 10px 0
 			.profile
 				flex 0 0 15%
+				a
+					color #4f73ad
+					text-decoration none
+					&:hover
+						text-decoration underline
+						color grey
 			.titles
 				flex 0 0 15%
 			.units

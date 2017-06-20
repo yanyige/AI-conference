@@ -5,7 +5,7 @@
 	 	</div>
 		<div class="content">
 			<div>
-				<p>主办单位: <p class="indent1"><a href="http://www.nenu.edu.cn/">东北师范大学</a></p><p class="indent1"><a href="http://www.jlu.edu.cn/">吉林大学</a></p></p>
+				<p>主办方: <p class="indent1"><a href="javascript:void(0)">CCF yocsef 长春</a></p><p class="indent1"><a href="javascript:void(0)">吉林省计算机学会</a></p><p class="indent1"><a href="http://www.nenu.edu.cn/">东北师范大学</a></p>
 			</div>
 			<div>
 				<p>协办单位: 暂无</p>

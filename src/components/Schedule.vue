@@ -3,7 +3,7 @@
 	 	<p class="title">7月6日 星期四</p>
 		<p class="para">一个美好的周四~</p>
 		<p class="title">7月7日（半天） 星期五</p>
-		<p class="para">下午自由交流，组织游山</p>
+		<p class="para">下午自由交流</p>
 	</div>
 </template>
 
