@@ -1,4 +1,4 @@
-<template>
+﻿<template>
 	<div class="professor">
 		<div class="title">
 			邀请参会人员
@@ -42,26 +42,15 @@
 			<div class="titles"></div>
 			<div class="units">渡合科技有限公司</div>
 		</div>
-		<div class="school">顺丰科技</div>
-		<div class="content">
-			<div class="profile">黄基锋</div>
-			<div class="titles"></div>
-			<div class="units">顺丰科技</div>
-		</div>
 		<div class="school">大连理工大学</div>
 		<div class="content">
 			<div class="profile">江贺</div>
 			<div class="titles">教授</div>
 			<div class="units">大连理工大学</div>
 		</div><div class="content">
-			<div class="profile"><a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy</a></div>
+			<div class="profile"><a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee</a></div>
 			<div class="titles">教授</div>
 			<div class="units">香港中文大学</div>
-		</div>
-		<div class="content">
-			<div class="profile">江贺</div>
-			<div class="titles">教授</div>
-			<div class="units">大连理工大学</div>
 		</div>
 		<div class="school">西安交通大学</div>
 		<div class="content">
@@ -90,16 +79,13 @@
 			<div class="titles"></div>
 			<div class="units">菜鸟物流</div>
 		</div>
-		<div class="content">
-			<div class="profile">李燕</div>
-			<div class="titles"></div>
-			<div class="units">菜鸟物流</div>
-		</div>
+		
 		<div class="content">
 			<div class="profile">李占山</div>
 			<div class="titles">教授</div>
 			<div class="units">吉林大学</div>
 		</div>
+
 		<div class="content">
 			<div class="profile">刘华文</div>
 			<div class="titles">副教授</div>
@@ -176,6 +162,12 @@
 			<div class="units">Darwin University</div>
 		</div>
 		<div class="content">
+			<div class="profile">苏建安</div>
+			<div class="titles"></div>
+			<div class="units">网易 新美事业部</div>
+		</div>
+		
+		<div class="content">
 			<div class="profile">苏开乐</div>
 			<div class="titles">教授</div>
 			<div class="units">暨南大学</div>
@@ -192,6 +184,12 @@
 			<div class="titles">副教授</div>
 			<div class="units">江苏师范大学</div>
 		</div>
+		<div class="school">西北工业大学</div>
+		<div class="content">
+			<div class="profile">王阳</div>
+			<div class="titles">副教授</div>
+			<div class="units">西北工业大学</div>
+		</div>
 		<div class="content">
 			<div class="profile">熊正大</div>
 			<div class="titles">讲师</div>
@@ -202,6 +200,11 @@
 			<div class="profile">玄跻峰</div>
 			<div class="titles">教授</div>
 			<div class="units">武汉大学</div>
+		</div>
+		<div class="content">
+			<div class="profile">徐艳艳</div>
+			<div class="titles">副教授</div>
+			<div class="units">北京林业大学</div>
 		</div>
 		<div class="school">北京航空航天大学</div>
 		<div class="content">

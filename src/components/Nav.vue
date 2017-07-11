@@ -33,7 +33,7 @@
 			</div>
 			<div class="nav-item">
 				<router-link v-bind:to="{ path:'/photos' }">
-					会议照片
+					会议相关
 				</router-link>
 			</div>
 			<div class="nav-item">
