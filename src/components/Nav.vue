@@ -38,7 +38,7 @@
 			</div>
 			<div class="nav-item">
 				<router-link v-bind:to="{ path:'/foods' }">
-					食宿安排
+					合影留念
 				</router-link>
 			</div>
 		</div>
